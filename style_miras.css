@@ -1,0 +1,72 @@
+
+/*{
+
+}
+body
+{
+    background-color: grey;
+}
+.cursiv
+{
+    font-style: italic;
+    text-decoration: underline;
+}
+.rt
+{
+    border: solid;
+}
+.tt
+{
+    border: solid;
+
+}
+h3 {
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.header{
+    display:flex ;
+    flex-direction: row;
+}
+.class
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+.header1
+{
+    display:flex ;
+    flex-direction: row;
+}
+.header2{
+    display:flex ;
+    flex-direction: row;
+}*/
+
+@import url('https://fonts.googleapis.com/css2? family = Asset & display = swap');
+*{
+    color: tomato;
+}
+body{
+    background-color: grey;
+}
+
+header
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.fig {
+text-align: center;
+}
+
+.bludo
+{
+    border: solid;
+    font-size: 75px;
+}

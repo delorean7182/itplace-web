@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:rgb(235, 204, 204)
+    
+}
+
+.menu
+{
+    margin-top: 30px;
+    margin-left: 239px;
+    font-size: 30px;
+    color:rgb(102, 99, 99);
+    font-style: italic;
+}
+.text
+{
+  
+    margin-top: 15px;
+    font-size: 15px;
+
+}
+.wrap
+{
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 30px;
+
+}
+
+.oi
+{
+    position: relative;
+    float: right;
+    width: 36%;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    
+}
+.po{
+    margin-left: 90px;
+}
+.ingredients
+{
+    margin-left: 39px;
+}
+.stages
+{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.title
+{
+    font-size: 30px;
+    font-style: oblique;
+}
